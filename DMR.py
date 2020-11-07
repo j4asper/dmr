@@ -1,4 +1,4 @@
-import requests, re
+import requests
 from flask import Flask, jsonify
 from bs4 import BeautifulSoup
 
