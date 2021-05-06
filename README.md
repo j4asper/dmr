@@ -1,5 +1,7 @@
 # Danmarks Motor Register API (Flask baseret)
 
+## Denne scraper virker ikke mere!
+
 En API der returnerer data fra motorregister.skat.dk i JSON format.
 
 Filen "DMR.py" skal bare startes og derefter kan du lave en GET request til http://<BASE_URL>/api/<NUMMERPLADE>. Et eksempel på en localhost kan være "http://localhost:5000/api/AY27706"
